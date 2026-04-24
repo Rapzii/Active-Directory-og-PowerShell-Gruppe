@@ -3,7 +3,7 @@ Navn: Zaid
 Dato: 24.04.2026
 Fag: AD_PowerShell_spring_2026
 
-Innledning
+
 I denne oppgaven har jeg jobbet med Active Directory og PowerShell. Målet var å lære hvordan man kan administrere brukere, grupper og datamaskiner i et domene. Jeg fikk også erfaring med hvordan PowerShell kan brukes til å gjøre oppgaver raskere og enklere.
 Arbeid med Active Directory
 Jeg brukte Active Directory Users and Computers for å opprette en struktur med ulike OU-er (Organizational Units). Jeg lagde egne mapper for:
