@@ -68,7 +68,8 @@ Klikk **Next**.
 
 >  **Merk:** Generasjon kan **ikke** endres etter at VM-en er opprettet.
 
-![Uploading image.png…]()
+<img width="512" height="273" alt="image" src="https://github.com/user-attachments/assets/b2a51f50-256f-4edb-b575-4ff558ea26b8" />
+
 
 
 
@@ -85,7 +86,8 @@ Sett **Startup memory** til ønsket verdi. Anbefalt for Windows 11:
 Du kan også aktivere **Dynamic Memory** for automatisk minnejustering.  
 Klikk **Next**.
 
-<img width="476" height="254" alt="image" src="https://github.com/user-attachments/assets/48f55186-16bc-498c-8d3c-22b6702ed107" />
+<img width="484" height="260" alt="image" src="https://github.com/user-attachments/assets/0dd24bd5-6b87-4d34-9d52-6d830e768a54" />
+
 
 
 ---
