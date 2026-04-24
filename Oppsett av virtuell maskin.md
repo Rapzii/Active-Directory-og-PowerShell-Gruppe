@@ -17,7 +17,7 @@
 
 Trykk på **Windows-tasten** og søk etter `hyper`. Velg **Hyper-V Manager** fra søkeresultatene.
 
-<img width="476" height="270" alt="image" src="https://github.com/user-attachments/assets/2654f1b0-2a78-4f18-a845-ae62099c413c" />
+<img width="470" height="310" alt="image" src="https://github.com/user-attachments/assets/f98b6ab7-3f6a-4d46-aa79-32cef1724831" />
 
 
 ---
@@ -26,7 +26,8 @@ Trykk på **Windows-tasten** og søk etter `hyper`. Velg **Hyper-V Manager** fra
 
 I Hyper-V Manager, klikk på **Action** i menyen øverst → velg **New** → klikk på **Virtual Machine...**
 
-<img width="498" height="273" alt="image" src="https://github.com/user-attachments/assets/53853f95-2025-4cad-b750-d4e483e0ab32" />
+<img width="510" height="315" alt="image" src="https://github.com/user-attachments/assets/ed087c9f-8b0e-4bc5-bd00-02ff2d0196b0" />
+
 
 
 ---
@@ -35,7 +36,8 @@ I Hyper-V Manager, klikk på **Action** i menyen øverst → velg **New** → kl
 
 Veiviseren åpnes med siden **Before You Begin**. Les gjennom informasjonen og klikk **Next** for å fortsette.
 
-<img width="474" height="270" alt="image" src="https://github.com/user-attachments/assets/98d7f712-fe85-473d-b546-602cd39e66fe" />
+<img width="474" height="306" alt="image" src="https://github.com/user-attachments/assets/0fc8955f-1047-49c8-93e0-635784dfba8b" />
+
 
 
 ---
@@ -53,7 +55,8 @@ Klikk **Next** når du er ferdig.
 
 >  Bruk et navn som gjenspeiler gjestens operativsystem for enkel identifikasjon.
 
-<img width="484" height="260" alt="image" src="https://github.com/user-attachments/assets/7457495a-d898-4ac1-9404-198f8ca748f7" />
+<img width="476" height="254" alt="image" src="https://github.com/user-attachments/assets/f1c0df90-d4c1-4df5-bec9-9c97e4bcb276" />
+
 
 
 ---
@@ -65,7 +68,8 @@ Klikk **Next**.
 
 >  **Merk:** Generasjon kan **ikke** endres etter at VM-en er opprettet.
 
-<img width="512" height="273" alt="image" src="https://github.com/user-attachments/assets/66fba28e-4bba-48b6-b23a-c78e30492b50" />
+![Uploading image.png…]()
+
 
 
 ---
