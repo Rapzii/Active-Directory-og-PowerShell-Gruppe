@@ -40,3 +40,9 @@ Bruke PowerShell-kommandoer
 Tilgangsstyring med grupper
 Konklusjon
 Denne oppgaven ga meg bedre forståelse av hvordan Windows Server og Active Directory fungerer. Jeg synes det var nyttig å lære PowerShell siden det sparer tid og brukes mye i IT-yrker. Dette er kunnskap jeg kan få bruk for senere innen IT-drift og support.
+
+
+
+Skjermbilder:
+
+<img width="426" height="223" alt="image" src="https://github.com/user-attachments/assets/6652e50f-84c5-4fb0-bc83-4d075da0550d" />
