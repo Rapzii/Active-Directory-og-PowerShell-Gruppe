@@ -1,5 +1,5 @@
 # Rapport – Active Directory og PowerShell Gruppe
-### Navn: Zaid
+Navn: Zaid
 Dato: 24.04.2026
 Fag: AD_PowerShell_spring_2026
 
