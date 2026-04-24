@@ -147,24 +147,7 @@ Klikk **Finish** for å opprette VM-en.
 <img width="476" height="270" alt="image" src="https://github.com/user-attachments/assets/02a42beb-a4c9-438c-8ef4-0406c15f9d81" />
 
 
----
 
-##  Mappestruktur
-
-```
-repo/
-├── README.md
-└── bilder/
-    ├── steg1.png
-    ├── steg2.png
-    ├── steg3.png
-    ├── steg4.png
-    ├── steg5.png
-    ├── steg6.png
-    ├── steg7.png
-    ├── steg8.png
-    └── steg9.png
-``
 
 
 
