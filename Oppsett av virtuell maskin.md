@@ -17,7 +17,8 @@
 
 Trykk på **Windows-tasten** og søk etter `hyper`. Velg **Hyper-V Manager** fra søkeresultatene.
 
-<img 
+<img width="470" height="310" alt="image" src="https://github.com/user-attachments/assets/4ed24f3a-5f56-4257-9b84-ef3957e907d0" />
+
 
 
 ---
@@ -26,7 +27,8 @@ Trykk på **Windows-tasten** og søk etter `hyper`. Velg **Hyper-V Manager** fra
 
 I Hyper-V Manager, klikk på **Action** i menyen øverst → velg **New** → klikk på **Virtual Machine...**
 
-<img 
+<img width="510" height="315" alt="image" src="https://github.com/user-attachments/assets/0bca853d-907f-422a-b3fe-f53c8084a344" />
+
 
 
 
@@ -36,7 +38,8 @@ I Hyper-V Manager, klikk på **Action** i menyen øverst → velg **New** → kl
 
 Veiviseren åpnes med siden **Before You Begin**. Les gjennom informasjonen og klikk **Next** for å fortsette.
 
-<img 
+<img width="474" height="306" alt="image" src="https://github.com/user-attachments/assets/95e6c431-6e15-4679-80d6-9f33ff71f5f3" />
+
 
 
 
@@ -55,7 +58,8 @@ Klikk **Next** når du er ferdig.
 
 >  Bruk et navn som gjenspeiler gjestens operativsystem for enkel identifikasjon.
 
-<img 
+<img width="474" height="306" alt="image" src="https://github.com/user-attachments/assets/a7a44fed-6413-4f40-b9b1-1927d48274ce" />
+
 
 
 ---
@@ -67,7 +71,8 @@ Klikk **Next**.
 
 >  **Merk:** Generasjon kan **ikke** endres etter at VM-en er opprettet.
 
-<img 
+<img width="512" height="273" alt="image" src="https://github.com/user-attachments/assets/51d4f476-449a-4f0f-b511-32a28623e0e2" />
+
 
 
 
@@ -85,7 +90,8 @@ Sett **Startup memory** til ønsket verdi. Anbefalt for Windows 11:
 Du kan også aktivere **Dynamic Memory** for automatisk minnejustering.  
 Klikk **Next**.
 
-<img 
+<img width="484" height="260" alt="image" src="https://github.com/user-attachments/assets/4424cc32-7052-4456-8deb-5068d3c9c1e0" />
+
 
 
 
@@ -97,7 +103,8 @@ Velg en nettverksadapter fra nedtrekkslisten.
 Velg **Default Switch** for enkel internettilgang uten ekstra konfigurasjon.  
 Klikk **Next**.
 
-<img 
+<img width="474" height="270" alt="image" src="https://github.com/user-attachments/assets/55ff8418-e955-4865-a308-206584d14453" />
+
 
 
 ---
@@ -114,7 +121,8 @@ Klikk **Next**.
 
 >  VHDX-format brukes — dynamisk ekspanderende, noe som sparer diskplass.
 
-<img 
+<img width="498" height="273" alt="image" src="https://github.com/user-attachments/assets/d3723aad-d7be-482e-8816-f09d381e131f" />
+
 
 
 ---
@@ -136,7 +144,8 @@ Klikk **Finish** for å opprette VM-en.
 
 >  Husk å koble til en ISO-fil etterpå for å installere operativsystemet.
 
-<img 
+<img width="476" height="270" alt="image" src="https://github.com/user-attachments/assets/02a42beb-a4c9-438c-8ef4-0406c15f9d81" />
+
 
 ---
 
